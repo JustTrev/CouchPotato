@@ -31,11 +31,17 @@ Couch Potato currently works offline until a new release supports Checking Updat
 
 **The Road Map**
 • Add update checker for newer releases.
+
 • Add controller support.
+
 • Integrate a basic online friends list, chat system with voice, take screenshots, music player, all manageble within the Potato Bios screen.
+
 • Add lightwieght 3D backgrounds over 2D wallpapers with toggle feature to enable/disable.
+
 • Activate Windows without needing the desktop environment running. (allows clean installs to install Potato on the fly)
+
 • Re-write onto Linux kernal (such as Pop_OS) to replace the Gnome to Couch Potato as a new Gnome with same functionalities built in.
+
 _(potential candidate would be to integrate Discord as an end all be all solution for chat etc, with controller support) _
 
 **Warranty**
@@ -45,16 +51,22 @@ Download Link: Coming Soon!
 
 **Requirements:**
 • Windows 7 or later.  (Does not have to be activated)
+
 • i3 2000 series or newer / AMD 4100 or newer
+
 • 8 GB of RAM
+
 • 500MB of free SSD storage
+
 • Network Connection
 
 
 **Working Build Status**
+
 This platform is being built on the newest .NET 6 framework from the VS 2022 Preview. Currently running on Windows 11 as a main test, coded in c#.
 
 **Current tested hardware:**
+
 • Dell Alienware x51
 • Windows 11 Dev Preview
 • i7 3770
