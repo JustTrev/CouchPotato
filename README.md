@@ -15,6 +15,7 @@ Potato uses "Dashboards" as an easy way to reference any video game digital dist
 
 Couch Potato is strictly intended for simplicity and lightweight functionality, as it IS a replacement to the Windows Desktop Environment shell, built for Home Theater Gaming PC's in mind. (Typical Living room gaming from your couch). It does not collect nor distribute any data of any kind. The Community is Responsible for providing hardware information in terms of troubleshooting purposes only.
 
+
 **Features**
 
 There are settings available to you that you can adjust in Couch Potato. 
