@@ -6,6 +6,8 @@ Similar to the likes of a console, CouchPotato will transform any and all Window
 CouchPotato is not your replacement from your gaming source of any kind.  This is a controlled environment where it is possible to launch emulators as a way to enjoy retro gaming in your living room instead of the Steam Overlay!
 
 Let me explain! :)
+
+
 **Explanation** 
 
 CouchPotato functions as the new desktop environment within the main Windows OS. 
@@ -17,7 +19,9 @@ _(The UWP apps and XBOX Overlay features designed in Windows 10+, will not work 
 **Dashboards**, 
 are often used to reference any video game digital distribution service (such as Steam, UPlay Origin, or Epic Games Store, etc.) or emulators (such as PPSSPP, Dolphin, cbxc, etc.) that CouchPotato will run after the F7 timer completes.
 
+
 Upon the first initial boot into CouchPotato, you will have a 3 second timer before launching into the Dashboard. During those 3 seconds if you hit F7, you will abort the timer and the CouchPotato menu will appear, to make any necessary adjustments or to install a dashboard that is not setup. Otherwise you will load into your defined Dashboard when the timer completes.  _You will notice the message near the top center during boot._
+
 
 CouchPotato is strictly intended for simplicity and lightweight functionality, as it IS a replacement to the Windows Desktop Environment shell, modifying the registry. You too can still revert back into your desktop environment after a reboot takes place, each time this field changes. 
 
