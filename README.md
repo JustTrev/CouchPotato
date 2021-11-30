@@ -3,7 +3,7 @@ CouchPotato is a glorified watchdog client used to monitor and protect all regis
 
 Similar to the likes of a console, CouchPotato will transform any and all Windows based PCs (targeted towards HTPC's in mind) the ability to start gaming from the moment you power on your system, till your ass reaches the couch.  
 
-CouchPotato is not to be a replacement for your gaming source of any kind.  This is a controlled environment where it is possible to launch emulators as a way to enjoy retro gaming in your living room instead of the Steam Overlay!
+CouchPotato is not your replacement from your gaming source of any kind.  This is a controlled environment where it is possible to launch emulators as a way to enjoy retro gaming in your living room instead of the Steam Overlay!
 
 Let me explain! :)
 **Explanation** 
