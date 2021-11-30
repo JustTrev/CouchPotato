@@ -1,28 +1,36 @@
 # CouchPotato
-Couch Potato is a glorified watchdog client used to monitor and protect all registered titles including dashboards from crashing. Couch Potato replaces the Shell Registry key (explorer.exe) with it's own (CouchPotato.exe), to boot into Couch Potato instead of the Windows Desktop Environment. 
+CouchPotato is a glorified watchdog client used to monitor and protect all registered titles including, but not limited too; video game digital distribution services, ("Dashboards") from crashing. CouchPotato replaces the entire desktop environment with it's own unuiqe environment. 
 
-Couch Potato transforms all Windows based PCs (designed for HTPC's in mind) with the ability to quickly start gaming from the moment you power on your system. 
+Similar to the likes of a console, CouchPotato will transform any and all Windows based PCs (targeted towards HTPC's in mind) the ability to start gaming from the moment you power on your system, till your ass reaches the couch.  
 
-Similar to the likes of a console, this is not a replacement to a gaming source of any kind. 
+CouchPotato is not to be a replacement for your gaming source of any kind.  This is a controlled environment where it is possible to launch emulators as a way to enjoy retro gaming in your living room instead of the Steam Overlay!
 
-
+Let me explain! :)
 **Explanation** 
 
-Couch Potato currently functions as the new Underlying System Environment for the main OS, with features you will only ever use for gaming. 
-_(The UWP apps and XBOX Overlay feature in Windows 10+, will not work with Potato at this time.)_.
+CouchPotato functions as the new desktop environment within the main Windows OS. 
+CouchPotato provides all the features you will only ever use for gaming, while you game. 
+_There are little goodies I have included for enthusiasts using things like, MSI afterburner tools, etc._ :)
 
-Potato uses "Dashboards" as an easy way to reference any video game digital distribution service (such as Steam, UPlay Origin, or Epic Games Store, etc.) platform of your choice, used to launch your favorite titles.
+_(The UWP apps and XBOX Overlay features designed in Windows 10+, will not work with Potato at this time.  I will need help investigating this relm further)_.
 
-Couch Potato is strictly intended for simplicity and lightweight functionality, as it IS a replacement to the Windows Desktop Environment shell, built for Home Theater Gaming PC's in mind. (Typical Living room gaming from your couch). It does not collect nor distribute any data of any kind. The Community is Responsible for providing hardware information in terms of troubleshooting purposes only.
+**Dashboards**, 
+are often used to reference any video game digital distribution service (such as Steam, UPlay Origin, or Epic Games Store, etc.) or emulators such as the likes of PPSSPP, Dolphin, cbxc, etc. that CouchPotato will run after the F7 timer completes.
+
+Uppon the first initial boot into CouchPotato, you will have a 3 second timer before launching the Dashboard. During the 3 seconds, if you hit F7 you will abort the timer and navigate into the settings of CouchPotato. Otherwise you will load into your defined Dashboard when the timer completes.  _You will notice the message near the top center during boot._
+
+CouchPotato is strictly intended for simplicity and lightweight functionality, as it IS a replacement to the Windows Desktop Environment shell, modifying the registry. You too can still revert back into your desktop environment after a reboot takes place, each time this field changes. 
 
 
 **Features**
 
-There are settings available to you that you can adjust in Couch Potato. 
+There are settings available to you that you can adjust in CouchPotato.
+
+At anytime your dashboard is not running you will be presented to CouchPotato's F7 timer. Only at that time you may hit F7 on your keyboard to enter CouchPotato BiOS11. 
 
 • You can check storage capacity.
 
-• Changing your username of the profile baked into the Windows OS.
+• Configure your local windows username as a future online username profile experience.  
 
 • Adjust your graphics card settings. - _(Current GPU support is Nvidia at this time. Looking for further support to be expanded here!)_
 
@@ -31,7 +39,7 @@ There are settings available to you that you can adjust in Couch Potato.
 • etc.
 
 
-_More features include:_ 
+_Features include:_ 
 From initial launch or a crashed Dashboard, Potato will launch the dashboard after 3 seconds. Within the 3 second time frame, you have the ability to press F7 to abort the dhasborad from loading.  Afterwards, you will then be taken to the Main Menu of Couch Potato. 
 
 Within the Main Menu of Couch Potato, you can reboot into the Windows Desktop Envrionment by any means necessary. 
@@ -58,13 +66,14 @@ _(potential candidate would be to integrate Discord as an end all be all solutio
 
 **Warranty**
 
-Couch Potato is and forever will be a freeware product. Couch Potato is NOT LIABLE NOR RESPONSIBLE OF ANY DAMAGES OF ANY KIND INACTED BY THE HOST OR SOFTWARE. USE AT YOUR OWN RISK.
+CouchPotato and Toaster installers are and forever will be a freeware product. CouchPotato and or Toaster ARE NOT LIABLE/RESPONSIBLE OF ANY DAMAGES OF ANY KIND INACTED BY THE HOST OR SOFTWARE INVOLVING THE USER. USE AT YOUR OWN RISK.
 
 Download Link: Coming Soon!
 
 
 **Requirements:**
-• Windows 7 or later.  (Does not have to be activated)
+• Windows 7 or later.  
+**(TOASTER EXCLUSIVE) -  NO  PERSONAL  COMPUTERS.  COUCHPOTATO  REQUIRES  A  FRESH  INSTALLATION  OF  WINDOWS.**
 
 • i3 2000 series or newer / AMD 4100 or newer
 
@@ -95,3 +104,8 @@ This platform is being built on the newest .NET 6 framework from the VS 2022 Pre
 • 1TB SSD
 
 • Network Connection
+
+
+:Callback:
+CouchPotato was built for the Home Theater Gaming PC in mind. (Typical Living room gaming PC setup). It does not collect nor distribute any data of any kind. I DO NOT TOLLERATE IT EVEN IF IT WERE MINE. I GOT YOU.  THE  COMMUNITY  IS  RESPONSIBLE  FOR  USEFUL  COLLABORATIONS  between other community members in proividing hardware information for troubleshooting purposes only.
+
